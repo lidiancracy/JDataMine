@@ -5,5 +5,5 @@
 
 - The `script` folder contains the scripts we used for statistical analysis of the datasets.
 
-- The `score` folder can be used to score any dataset and display the score distribution in the form of a heatmap.
+- The `hotmap` folder can be used to score any dataset and display the score distribution in the form of a heatmap.
 
